@@ -1,0 +1,6 @@
+name: Teamspeak3 Api
+version: '${project.version}'
+main: eu.melonensaft.minecraftjoe09.teamspeak3api.Teamspeak3Api
+api-version: 1.19
+prefix: Teamspeak3 Api
+authors: [ MinecraftJoe09 ]
